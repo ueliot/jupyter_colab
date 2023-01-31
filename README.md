@@ -21,5 +21,9 @@ https://stackoverflow.com/questions/71848784/connection-arduino-on-google-colab
 https://www.youtube.com/watch?v=Dkg4cSvqv10
 https://www.youtube.com/watch?v=DJY9TFxrYbM
 
+Intro al aprendizaje automatico
+https://developers.google.com/machine-learning/crash-course/ml-intro?hl=es-419
+
+
 
 
