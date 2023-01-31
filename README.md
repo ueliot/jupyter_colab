@@ -13,3 +13,13 @@ https://www.youtube.com/watch?v=Y_LXxAkCAF0&list=PLog6C4RKzdPOv66RNEzwMKpvG5BjXl
 
 red neuronal convolucional en python
 https://www.youtube.com/watch?v=K8H1GVWD3hY&list=PLyDzGuMm1rUGAiPxjqE0grLsKkmbiFvAw
+
+serial webserial
+https://developer.chrome.com/articles/serial/
+https://stackoverflow.com/questions/71848784/connection-arduino-on-google-colab
+
+https://www.youtube.com/watch?v=Dkg4cSvqv10
+https://www.youtube.com/watch?v=DJY9TFxrYbM
+
+
+
