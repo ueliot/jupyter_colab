@@ -25,5 +25,9 @@ Intro al aprendizaje automatico
 https://developers.google.com/machine-learning/crash-course/ml-intro?hl=es-419
 
 
+cuaderno 
+
+https://colab.research.google.com/drive/1CPFLzLCPr_FpoxnNhQHJY1qQsHvyTrDP?usp=sharing
+
 
 
