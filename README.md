@@ -29,5 +29,8 @@ cuaderno
 
 https://colab.research.google.com/drive/1CPFLzLCPr_FpoxnNhQHJY1qQsHvyTrDP?usp=sharing
 
+curso de python
+https://colab.research.google.com/drive/1cZiahsSw0GH_DbyccF6Hv3vMcRumR-An?usp=sharing
+
 
 
