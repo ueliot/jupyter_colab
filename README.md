@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=K8H1GVWD3hY&list=PLyDzGuMm1rUGAiPxjqE0grLsKkmbiF
 serial webserial
 https://developer.chrome.com/articles/serial/
 https://stackoverflow.com/questions/71848784/connection-arduino-on-google-colab
+book:  https://codelabs.developers.google.com/codelabs/web-serial#0
+built in https://glitch.com/
 
 https://www.youtube.com/watch?v=Dkg4cSvqv10
 https://www.youtube.com/watch?v=DJY9TFxrYbM
