@@ -35,4 +35,22 @@ curso de python
 https://colab.research.google.com/drive/1cZiahsSw0GH_DbyccF6Hv3vMcRumR-An?usp=sharing
 
 
+APIS
+https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research
+https://docs.github.com/es/rest/guides/getting-started-with-the-rest-api?apiVersion=2022-11-28
+https://docs.github.com/es/rest?apiVersion=2022-11-28
+https://www.postman.com/twitter/workspace/twitter-s-public-workspace/overview
+
+
+
+https://apipheny.io/free-api/#finance-apis 
+
+https://apidocs.imgur.com/?version=latest
+https://rapidapi.com/aidangig/api/youtube-to-mp4
+https://github.com/hmerritt/php-imdb-api
+https://rapidapi.com/meme-generator-api-meme-generator-api-default/api/meme-generator
+
+
+
+
 
